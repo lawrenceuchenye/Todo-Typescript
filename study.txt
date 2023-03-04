@@ -1,0 +1,1 @@
+-- why in react ts do you specifiy the type in a useState 

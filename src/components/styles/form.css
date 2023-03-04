@@ -1,0 +1,26 @@
+
+.form_container{
+	position:relative;
+	top:-40px;
+}
+
+.form_container input{
+	padding:10px 6px;
+	border-radius:5px 0 0 5px;
+	font-family:"Poppins";
+	border:none;
+	outline:none;
+}
+
+.form_container button{
+	padding:10px 13px;
+	border-radius:0 5px 5px 0;
+	border:none;
+	position:relative;
+	left:-1px;
+	outline:none;
+	font-weight:800;
+	font-family:"Poppins";
+}
+
+
